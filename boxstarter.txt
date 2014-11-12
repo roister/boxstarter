@@ -54,6 +54,7 @@ cinst itunes
 cinst vlc
 cinst flashplayerplugin
 cinst spotify
+cinst cccp
 
 # Source Control
 cinst git

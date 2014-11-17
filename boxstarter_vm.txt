@@ -11,12 +11,9 @@ cinst console-devel
 cinst curl
 cinst DotNet4.5.1 
 cinst paint.net
-cinst putty
+cinst mobaxterm
 cinst SublimeText3
-cinst VisualStudio2013Ultimate
-cinst visualstudio2013-update1
-cinst visualstudio2013-update2
-cinst visualstudio2013-update3
+cinst VisualStudio2013Ultimate visualstudio2013-update3
 cinst resharper
 cinst xamarin-visualstudio
 cinst javaruntime
@@ -27,6 +24,7 @@ cinst conemu
 cinst cygwin
 cinst wireshark
 cinst winmerge
+cinst python2 python3 pip
 
 # Miscellaneous tools
 cinst 7zip.commandline
@@ -38,13 +36,9 @@ cinst winrar
 cinst filezilla
 cinst ccleaner
 cinst sysinternals
-cinst skype
-cinst dropbox
-cinst googledrive
-cinst evernote
 cinst winscp
 cinst yumi
-
+cinst start8
 
 # Source Control
 cinst git

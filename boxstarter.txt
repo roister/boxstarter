@@ -11,7 +11,8 @@ cinst console-devel
 cinst curl
 cinst DotNet4.5.1 
 cinst paint.net
-cinst putty
+#cinst putty
+cinst mobaxterm
 cinst SublimeText3
 cinst VisualStudio2013Ultimate
 #cinst visualstudio2013-update1
@@ -40,8 +41,8 @@ cinst ccleaner
 cinst sysinternals
 cinst skype
 cinst dropbox
-cinst teamviewer
-cinst utorrent
+#cinst teamviewer
+#cinst utorrent
 cinst googledrive
 cinst evernote
 cinst winscp
@@ -71,6 +72,6 @@ cinst virtualbox
 
 #gaming
 cinst steam
-cinst origin
+#cinst origin
 cinst battle.net
 cinst geforce-experience

@@ -28,6 +28,7 @@ cinst winmerge
 cinst python2 python3 pip
 
 # Miscellaneous tools
+cinst teracopy
 cinst 7zip.commandline
 cinst adobereader
 cinst windirstat
@@ -48,10 +49,10 @@ cinst start8
 
 # Multimedia
 cinst picasa
-cinst itunes
+#cinst itunes
 cinst vlc
 cinst flashplayerplugin
-cinst spotify
+#cinst spotify
 cinst cccp
 cinst handbrake
 

@@ -14,8 +14,8 @@ cinst paint.net
 cinst putty
 cinst SublimeText3
 cinst VisualStudio2013Ultimate
-cinst visualstudio2013-update1
-cinst visualstudio2013-update2
+#cinst visualstudio2013-update1
+#cinst visualstudio2013-update2
 cinst visualstudio2013-update3
 cinst resharper
 cinst xamarin-visualstudio
